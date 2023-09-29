@@ -2,8 +2,8 @@ package hubtelotp_test
 
 import (
 	"context"
-	"github.com/Bostigger/go-hubtelotp/internal/hubtelotp" // replace with your package path
-	"github.com/Bostigger/go-hubtelotp/internal/util"      // replace with your package path
+	"github.com/Bostigger/go-hubtelotp/internal/hubtelotp"
+	"github.com/Bostigger/go-hubtelotp/internal/util"
 	"testing"
 )
 
